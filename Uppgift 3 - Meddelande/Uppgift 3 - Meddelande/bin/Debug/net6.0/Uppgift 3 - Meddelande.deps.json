@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Uppgift 3 - Meddelande/1.0.0": {
+        "runtime": {
+          "Uppgift 3 - Meddelande.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uppgift 3 - Meddelande/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

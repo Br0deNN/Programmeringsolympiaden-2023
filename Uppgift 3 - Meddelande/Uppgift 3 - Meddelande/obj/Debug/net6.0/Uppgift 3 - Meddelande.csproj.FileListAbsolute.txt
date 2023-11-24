@@ -1,0 +1,14 @@
+C:\Users\thbr06001\source\repos\Uppgift 3 - Meddelande\Uppgift 3 - Meddelande\bin\Debug\net6.0\Uppgift 3 - Meddelande.exe
+C:\Users\thbr06001\source\repos\Uppgift 3 - Meddelande\Uppgift 3 - Meddelande\bin\Debug\net6.0\Uppgift 3 - Meddelande.deps.json
+C:\Users\thbr06001\source\repos\Uppgift 3 - Meddelande\Uppgift 3 - Meddelande\bin\Debug\net6.0\Uppgift 3 - Meddelande.runtimeconfig.json
+C:\Users\thbr06001\source\repos\Uppgift 3 - Meddelande\Uppgift 3 - Meddelande\bin\Debug\net6.0\Uppgift 3 - Meddelande.dll
+C:\Users\thbr06001\source\repos\Uppgift 3 - Meddelande\Uppgift 3 - Meddelande\bin\Debug\net6.0\Uppgift 3 - Meddelande.pdb
+C:\Users\thbr06001\source\repos\Uppgift 3 - Meddelande\Uppgift 3 - Meddelande\obj\Debug\net6.0\Uppgift 3 - Meddelande.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thbr06001\source\repos\Uppgift 3 - Meddelande\Uppgift 3 - Meddelande\obj\Debug\net6.0\Uppgift 3 - Meddelande.AssemblyInfoInputs.cache
+C:\Users\thbr06001\source\repos\Uppgift 3 - Meddelande\Uppgift 3 - Meddelande\obj\Debug\net6.0\Uppgift 3 - Meddelande.AssemblyInfo.cs
+C:\Users\thbr06001\source\repos\Uppgift 3 - Meddelande\Uppgift 3 - Meddelande\obj\Debug\net6.0\Uppgift 3 - Meddelande.csproj.CoreCompileInputs.cache
+C:\Users\thbr06001\source\repos\Uppgift 3 - Meddelande\Uppgift 3 - Meddelande\obj\Debug\net6.0\Uppgift 3 - Meddelande.dll
+C:\Users\thbr06001\source\repos\Uppgift 3 - Meddelande\Uppgift 3 - Meddelande\obj\Debug\net6.0\refint\Uppgift 3 - Meddelande.dll
+C:\Users\thbr06001\source\repos\Uppgift 3 - Meddelande\Uppgift 3 - Meddelande\obj\Debug\net6.0\Uppgift 3 - Meddelande.pdb
+C:\Users\thbr06001\source\repos\Uppgift 3 - Meddelande\Uppgift 3 - Meddelande\obj\Debug\net6.0\Uppgift 3 - Meddelande.genruntimeconfig.cache
+C:\Users\thbr06001\source\repos\Uppgift 3 - Meddelande\Uppgift 3 - Meddelande\obj\Debug\net6.0\ref\Uppgift 3 - Meddelande.dll
